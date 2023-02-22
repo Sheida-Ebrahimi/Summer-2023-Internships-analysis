@@ -1,76 +1,76 @@
-Company,Link,Title,Type,Location,Duration,Where,Status,Notes
-SOTI,SOTI-SD,SD Android,Hybrid,Mississauga,12 or 16,N/A,Technical interview,
-SOTI,SOTI-SD,SD,Hybrid,Mississauga,12 or 16,N/A,Technical interview,
-BAM,BAM,SE,Hybrid,Toronto,At least 4,LinkedIn,Applied,
-Qualcomm,qual,SE,On-site,Markham,16,LinkedIn,Applied,
-Texas Instruments,TX,SE,On-site,Toronto,N/A,LinkedIn,Applied,
-RBC,RBC,Data Sci,On-site,Toronto,16?,Job board,Applied,
-BMO,BMO,SD,On-site,Toronto,12 or 16,LinkedIn,Applied,
-TD,TD,SE,On-site,Toronto,4,LinkedIn,Applied,
-TD,TD,Data Sci,On-site,Toronto,4,LinkedIn,Applied,
-Dropbox,dropbox,SE,Remote,Toronto,N/A,Indeed,Rejected?,
-Autodesk,autodesk,SD,Remote,Quebec,N/A,LinkedIn,Applied,
-D2L,D2L,SD,Remote,Kitchener,12 or 16 ,Glassdoor ,Rejected ,asked if you're Iranian
-Celestica,Celestica,Cloud,Hybrid,Toronto,16,LinkedIn,Rejected,
-Kinaxis,Kinaxis,AI ,On-site,Toronto,8 or 12 or 16,LinkedIn,Applied,
-NVIDIA,NVIDIA,SE,Remote,Canada,N/A,Indeed,Applied,
-Kinaxis,Kinaxis,Developer,Remote,Ottawa,4 or 8 or 12 ,Job board,Rejected,Multithreading
-Workiva,workiva,SD,Remote,Canada,could be 12,LinkedIn,Rejected,
-Magnet Forensics,Magnet Forensics,SD,Remote,Halifax,N/A,LinkedIn,Applied,
-UKG,UKG,SD,On-site,Toronto,N/A,LinkedIn,Rejected,
-Intel,INTEL,SE,Hybrid,Toronto,N/A,LinkedIn,Rejected,
-Broadridge,Broadridge,SE,Hybrid,Toronto,4,LinkedIn,Rejected ,
-Broadridge,Broadridge,SE ,Hybrid,Toronto,4,LinkedIn,Rejected,BI publisher
-Ceridian,ceridian,iOS dev,Remote,Toronto,8 to 12,LinkedIn,Applied,
-Spotify,Spotify,Backend,Remote,Toronto,4,LinkedIn,Applied,
-Mercury,Mercury,SE,Remote,Toronto,4,LinkedIn,Applied,
-Slalom,slalom,SE,On-site,Toronto,3,LinkedIn,Applied,
-Snowflake,snow,SE,On-site,Toronto,4,LinkedIn,Rejected,"asked if you're Iranian, got OA, failed"
-Guidewire,guidewire,Cloud ,On-site,Toronto,N/A,LinkedIn,Rejected ,
-UPP,upp,Data Sci,Hybrid,Toronto,4,LinkedIn,Applied,
-Altair,altair,Data Sci,Hybrid,Toronto,4,LinkedIn,Applied,
-Kolsquare,kolsquare,SE,Remote,Toronto,8,LinkedIn,Applied,
-General Motors,gm,SD,Hybrid,Markham,8,Company,Rejected ,
-BMO,bmo,UX,On-site,Toronto,"4,8 or 12",LinkedIn,Applied,
-CIBC,cibc,Aplication,On-site,Toronto,8+,Job board,Applied,
-CIBC,same,Data Sci,On-site,Toronto,4 or 8 or 12,Job board,Applied,
-Qualcomm,qualcomm,ML,On-site,Markham,16,LinkedIn,Applied,
-Dream,dream,cyber security,On-site,Toronto,8,LinkedIn,Applied,
-Intact,intact,Data Sci,On-site,Toronto,4,LinkedIn,Applied,
-Intact,intact,AI backend,On-site,Toronto,4,Company,Applied,
-Cowbell,cowbell,SE,Remote,Toronto,4,LinkedIn,Rejected ,Asked if you're a citizen or have a PR
-Ceridian,ceridian,Android dev,Remote,Toronto,4,LinkedIn,Applied,
-Altissian,alt,SE,Remote,Toronto,4,LinkedIn,Rejected,Work visa for US
-Konrad,konrad,SE,Hybrid,Toronto,12 or 16,LinkedIn,Applied,
-Guidewire,guidwire,SE,Hybrid,Toronto,4,LinkedIn,Rejected,Been rejected before by company
-ADP,ADP,Aplication,On-site,Etobicoke,N/A,linkedIn,Applied,
-Intuit,intuit,SD,On-site,Toronto,N/A,linkedIn,Applied,
-Ceridian,ceridian,SD,Remote,Toronto,8,linkedIn,Applied,
-Canada Life,cl,SD,Hybrid,Toronto,N/A,linkedIn,Applied,"feels like high security back ground check, sus"
-AMD,AMD,SE,On-site,Markham,12 or 16,linkedIn,Applied,Asked if Iranian
-Behaviour Interactive,bI,Data Dev,On-site,Toronto,4,linkedIn,Applied,
-AppLovin,AL,SE,Remote,Toronto,2 or 3,linkedIn,Applied,Backend
-Roche,Roche,Data Sci,Hybrid,Mississauga,4,linkedIn,Applied,
-Intact,intact,Java Dev,On-site,Toronto,16,linkedIn,Applied,
-Autodesk,autodesk,SD,On-site,Toronto,N/A,linkedIn,Applied,Same job as the last one?
-Konrad,konrad,SD,On-site,Toronto,4,linkedIn,Applied,
-1Password,1p,developer,Remote,Canada,4,linkedIn,Rejected,
-Loblaws,loblaws,SD,On-site,Toronto,4,linkedIn,Applied,
-Interac,Interac,SD,On-site,Toronto,N/A,linkedIn,Applied,Background check
-1Password,1P,developer,Remote,Toronto,4,linkedIn,Rejected,
-Guidewire,Guidewire,Full stack,Hybrid,Mississauga,4,linkedIn,Rejected,rejected before from company
-Interac,interac,Data Sci,On-site,Toronto,N/A,linkedIn,Applied,
-Qualcomm,qual,SE,On-site,Markham,4 or 16,linkedIn,Applied,
-Home Depot,HD,SD,Remote,Toronto,4,linkedIn,Applied,
-Home Depot,HD,Full stack,Remote,Toronto,4,linkedIn,Applied,
-Capco,Capco,developer,On-site,Toronto,4,Indeed,Applied,
-Verto,verto,Data analyst,Remote,Toronto,N/A,Indeed,rejected,
-Interac,interac,Web ,On-site,Toronto,N/A,linkedIn,Applied,
-ProofPoint,poofPoint,SD,On-site,Toronto,N/A,linkedIn,Applied,
-mdf commerence,mdf,SD,Remote,Kanata,N/A,linkedIn,Applied,
-Kinaxis,kinaxis,Analytics,On-site,Toronto,12,linkedIn,Rejected,Rejected before from company
-Sanofi,sanofi,Data,On-site,Toronto,N/A,linkedIn,Applied,
-ProofPoint,proofpoint,Archive,Remote,Toronto,N/A,linkedIn,Applied,remote until office opens
-Wealthscope,wealthscope,SD,Hybrid,Toronto,N/A,linkedIn,Rejected,
-Citco,citco,SE,Hybrid,Toronto,N/A,linkedIn,Applied,must have at least completed 3rd year
-Seismic,sei,SE,On-site,Toronto,N/A,linkedIn,Applied,
+Company,Link,Title,Type,Location,Duration,Where,Status
+SOTI,SOTI-SD,SD Android,Hybrid,Mississauga,12 or 16,N/A,Technical interview
+SOTI,SOTI-SD,SD,Hybrid,Mississauga,12 or 16,N/A,Technical interview
+BAM,BAM,SE,Hybrid,Toronto,At least 4,LinkedIn,Applied
+Qualcomm,qual,SE,On-site,Markham,16,LinkedIn,Applied
+Texas Instruments,TX,SE,On-site,Toronto,N/A,LinkedIn,Applied
+RBC,RBC,Data Sci,On-site,Toronto,16?,Job board,Applied
+BMO,BMO,SD,On-site,Toronto,12 or 16,LinkedIn,Applied
+TD,TD,SE,On-site,Toronto,4,LinkedIn,Applied
+TD,TD,Data Sci,On-site,Toronto,4,LinkedIn,Applied
+Dropbox,dropbox,SE,Remote,Toronto,N/A,Indeed,Rejected?
+Autodesk,autodesk,SD,Remote,Quebec,N/A,LinkedIn,Applied
+D2L,D2L,SD,Remote,Kitchener,12 or 16 ,Glassdoor ,Rejected 
+Celestica,Celestica,Cloud,Hybrid,Toronto,16,LinkedIn,Rejected
+Kinaxis,Kinaxis,AI ,On-site,Toronto,8 or 12 or 16,LinkedIn,Applied
+NVIDIA,NVIDIA,SE,Remote,Canada,N/A,Indeed,Applied
+Kinaxis,Kinaxis,Developer,Remote,Ottawa,4 or 8 or 12 ,Job board,Rejected
+Workiva,workiva,SD,Remote,Canada,could be 12,LinkedIn,Rejected
+Magnet Forensics,Magnet Forensics,SD,Remote,Halifax,N/A,LinkedIn,Applied
+UKG,UKG,SD,On-site,Toronto,N/A,LinkedIn,Rejected
+Intel,INTEL,SE,Hybrid,Toronto,N/A,LinkedIn,Rejected
+Broadridge,Broadridge,SE,Hybrid,Toronto,4,LinkedIn,Rejected 
+Broadridge,Broadridge,SE ,Hybrid,Toronto,4,LinkedIn,Rejected
+Ceridian,ceridian,iOS dev,Remote,Toronto,8 to 12,LinkedIn,Applied
+Spotify,Spotify,Backend,Remote,Toronto,4,LinkedIn,Applied
+Mercury,Mercury,SE,Remote,Toronto,4,LinkedIn,Applied
+Slalom,slalom,SE,On-site,Toronto,3,LinkedIn,Applied
+Snowflake,snow,SE,On-site,Toronto,4,LinkedIn,Rejected
+Guidewire,guidewire,Cloud ,On-site,Toronto,N/A,LinkedIn,Rejected 
+UPP,upp,Data Sci,Hybrid,Toronto,4,LinkedIn,Applied
+Altair,altair,Data Sci,Hybrid,Toronto,4,LinkedIn,Applied
+Kolsquare,kolsquare,SE,Remote,Toronto,8,LinkedIn,Applied
+General Motors,gm,SD,Hybrid,Markham,8,Company,Rejected 
+BMO,bmo,UX,On-site,Toronto,"4,8 or 12",LinkedIn,Applied
+CIBC,cibc,Aplication,On-site,Toronto,8+,Job board,Applied
+CIBC,same,Data Sci,On-site,Toronto,4 or 8 or 12,Job board,Applied
+Qualcomm,qualcomm,ML,On-site,Markham,16,LinkedIn,Applied
+Dream,dream,cyber security,On-site,Toronto,8,LinkedIn,Applied
+Intact,intact,Data Sci,On-site,Toronto,4,LinkedIn,Applied
+Intact,intact,AI backend,On-site,Toronto,4,Company,Applied
+Cowbell,cowbell,SE,Remote,Toronto,4,LinkedIn,Rejected 
+Ceridian,ceridian,Android dev,Remote,Toronto,4,LinkedIn,Applied
+Altissian,alt,SE,Remote,Toronto,4,LinkedIn,Rejected
+Konrad,konrad,SE,Hybrid,Toronto,12 or 16,LinkedIn,Applied
+Guidewire,guidwire,SE,Hybrid,Toronto,4,LinkedIn,Rejected
+ADP,ADP,Aplication,On-site,Etobicoke,N/A,linkedIn,Applied
+Intuit,intuit,SD,On-site,Toronto,N/A,linkedIn,Applied
+Ceridian,ceridian,SD,Remote,Toronto,8,linkedIn,Applied
+Canada Life,cl,SD,Hybrid,Toronto,N/A,linkedIn,Applied
+AMD,AMD,SE,On-site,Markham,12 or 16,linkedIn,Applied
+Behaviour Interactive,bI,Data Dev,On-site,Toronto,4,linkedIn,Applied
+AppLovin,AL,SE,Remote,Toronto,2 or 3,linkedIn,Applied
+Roche,Roche,Data Sci,Hybrid,Mississauga,4,linkedIn,Applied
+Intact,intact,Java Dev,On-site,Toronto,16,linkedIn,Applied
+Autodesk,autodesk,SD,On-site,Toronto,N/A,linkedIn,Applied
+Konrad,konrad,SD,On-site,Toronto,4,linkedIn,Applied
+1Password,1p,developer,Remote,Canada,4,linkedIn,Rejected
+Loblaws,loblaws,SD,On-site,Toronto,4,linkedIn,Applied
+Interac,Interac,SD,On-site,Toronto,N/A,linkedIn,Applied
+1Password,1P,developer,Remote,Toronto,4,linkedIn,Rejected
+Guidewire,Guidewire,Full stack,Hybrid,Mississauga,4,linkedIn,Rejected
+Interac,interac,Data Sci,On-site,Toronto,N/A,linkedIn,Applied
+Qualcomm,qual,SE,On-site,Markham,4 or 16,linkedIn,Applied
+Home Depot,HD,SD,Remote,Toronto,4,linkedIn,Applied
+Home Depot,HD,Full stack,Remote,Toronto,4,linkedIn,Applied
+Capco,Capco,developer,On-site,Toronto,4,Indeed,Applied
+Verto,verto,Data analyst,Remote,Toronto,N/A,Indeed,rejected
+Interac,interac,Web ,On-site,Toronto,N/A,linkedIn,Applied
+ProofPoint,poofPoint,SD,On-site,Toronto,N/A,linkedIn,Applied
+mdf commerence,mdf,SD,Remote,Kanata,N/A,linkedIn,Applied
+Kinaxis,kinaxis,Analytics,On-site,Toronto,12,linkedIn,Rejected
+Sanofi,sanofi,Data,On-site,Toronto,N/A,linkedIn,Applied
+ProofPoint,proofpoint,Archive,Remote,Toronto,N/A,linkedIn,Applied
+Wealthscope,wealthscope,SD,Hybrid,Toronto,N/A,linkedIn,Rejected
+Citco,citco,SE,Hybrid,Toronto,N/A,linkedIn,Applied
+Seismic,sei,SE,On-site,Toronto,N/A,linkedIn,Applied
