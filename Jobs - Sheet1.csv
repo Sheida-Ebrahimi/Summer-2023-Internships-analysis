@@ -47,7 +47,7 @@ ADP,ADP,Aplication,On-site,Etobicoke,N/A,linkedIn,Applied,
 Intuit,intuit,SD,On-site,Toronto,N/A,linkedIn,Applied,
 Ceridian,ceridian,SD,Remote,Toronto,8,linkedIn,Applied,
 Canada Life,cl,SD,Hybrid,Toronto,N/A,linkedIn,Applied,"feels like high security back ground check, sus"
-AMD,AMD,SE,On-site,Markham,12 or 16,linkedIn,Applied,Asked if Iranian
+AMD,Previously rejected,SE,On-site,Markham,12 or 16,linkedIn,Rejected,Asked if Iranian
 Behaviour Interactive,bI,Data Dev,On-site,Toronto,4,linkedIn,Applied,
 AppLovin,AL,SE,Remote,Toronto,2 or 3,linkedIn,Applied,Backend
 Roche,Roche,Data Sci,Hybrid,Mississauga,4,linkedIn,Applied,
@@ -74,3 +74,7 @@ ProofPoint,proofpoint,Archive,Remote,Toronto,N/A,linkedIn,Applied,remote until o
 Wealthscope,wealthscope,SD,Hybrid,Toronto,N/A,linkedIn,Rejected,
 Citco,citco,SE,Hybrid,Toronto,N/A,linkedIn,Applied,must have at least completed 3rd year
 Seismic,sei,SE,On-site,Toronto,N/A,linkedIn,Applied,
+AMD,amd,ML,On-site,Markham,12,linkedIn,Applied,"Previously rejected, asked if iranian "
+BMO,bmo,SD,On-site,Toronto,4,linkedIn,Applied,
+Loblaws,loblaws,SD,Hybrid,Toronto,4,linkedIn,Applied,
+Jonah Group,JG,SD,On-site,Toronto,N/A,linkedIn,Applied,
