@@ -16,7 +16,7 @@ Kinaxis,Kinaxis,AI ,On-site,Toronto,8 or 12 or 16,LinkedIn,Rejected,
 NVIDIA,NVIDIA,SE,Remote,Canada,N/A,Indeed,Rejected,
 Kinaxis,Kinaxis,Developer,Remote,Ottawa,4 or 8 or 12 ,Job board,Rejected,Multithreading
 Workiva,workiva,SD,Remote,Canada,could be 12,LinkedIn,Rejected,
-Magnet Forensics,Magnet Forensics,SD,Remote,Halifax,N/A,LinkedIn,Applied,
+Magnet Forensics,Magnet Forensics,SD,Remote,Halifax,N/A,LinkedIn,Rejected,
 UKG,UKG,SD,On-site,Toronto,N/A,LinkedIn,Rejected,
 Intel,INTEL,SE,Hybrid,Toronto,N/A,LinkedIn,Rejected,
 Broadridge,Broadridge,SE,Hybrid,Toronto,4,LinkedIn,Rejected ,
@@ -70,7 +70,7 @@ ProofPoint,poofPoint,SD,On-site,Toronto,N/A,linkedIn,Rejected,
 mdf commerence,mdf,SD,Remote,Kanata,N/A,linkedIn,Applied,
 Kinaxis,kinaxis,Analytics,On-site,Toronto,12,linkedIn,Rejected,Rejected before from company
 Sanofi,sanofi,Data,On-site,Toronto,N/A,linkedIn,Rejected,
-ProofPoint,proofpoint,Archive,Remote,Toronto,N/A,linkedIn,Applied,remote until office opens
+ProofPoint,proofpoint,Archive,Remote,Toronto,N/A,linkedIn,Rejected,remote until office opens
 Wealthscope,wealthscope,SD,Hybrid,Toronto,N/A,linkedIn,Rejected,
 Citco,citco,SE,Hybrid,Toronto,N/A,linkedIn,Applied,must have at least completed 3rd year
 Seismic,sei,SE,On-site,Toronto,N/A,linkedIn,Applied,
@@ -80,3 +80,8 @@ Loblaws,loblaws,SD,Hybrid,Toronto,4,linkedIn,Applied,
 Jonah Group,JG,SD,On-site,Toronto,N/A,linkedIn,Applied,
 Appen,appen,Data Eng,On-site,Toronto,N/A,linkedIn,Applied,
 MNP,mnp,developer,On-site,Toronto,4,linkedIn,Applied,
+Amazon,amazon,SD,on-site,Toronto,6,linkedIn,Applied,asked if Iranian
+Moneris,moneris,SD,Hybrid,Toronto,4 or 12,linkedIn,Applied,
+GoTo,goto,Backend,Remote,Toronto,N/A,linkedIn,Applied,
+Aecon,aecon,Cyber security,on-site,Toronto,N/A,linkedIn,Applied,
+Omers,omers,Backend,on-site,Toronto,8,linkedIn,Applied,
